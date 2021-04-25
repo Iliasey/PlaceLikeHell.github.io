@@ -30,6 +30,9 @@
       <recent name="C:\Workspaces\IdeaProjects\PlaceLikeHell.github.io\cdn" />
       <recent name="C:\Workspaces\IdeaProjects\PlaceLikeHell.github.io" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspaces\IdeaProjects\PlaceLikeHell.github.io" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,6 +45,7 @@
       <workItem from="1617289028570" duration="35000" />
       <workItem from="1617289066749" duration="593000" />
       <workItem from="1617474029484" duration="225000" />
+      <workItem from="1619041643146" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="du hurensohn">
       <created>1617288424864</created>
@@ -64,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617474265169</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Repositories">
+      <created>1619041717590</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619041717590</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +97,7 @@
     <MESSAGE value="du hurensohn" />
     <MESSAGE value="Restored Website" />
     <MESSAGE value="Changed Video" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed Video" />
+    <MESSAGE value="Added Repositories" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Repositories" />
   </component>
 </project>

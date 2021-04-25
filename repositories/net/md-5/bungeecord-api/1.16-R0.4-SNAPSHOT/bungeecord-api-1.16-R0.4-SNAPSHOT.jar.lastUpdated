@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 06 00:52:06 CET 2021
+https\://jcenter.bintray.com/.error=
+https\://www.your-repo.net/.error=
+https\://www.your-repo.net/.lastUpdated=1612569126251
+https\://jcenter.bintray.com/.lastUpdated=1612569126032
+@default-lombok-https\://mvnrepository.com/artifact/org.projectlombok/lombok/.lastUpdated=1612569126333
+https\://mvnrepository.com/artifact/org.projectlombok/lombok/.error=Could not transfer artifact net.md-5\:bungeecord-api\:jar\:1.16-R0.4-SNAPSHOT from/to lombok (https\://mvnrepository.com/artifact/org.projectlombok/lombok)\: Authorization failed for https\://mvnrepository.com/artifact/org.projectlombok/lombok/net/md-5/bungeecord-api/1.16-R0.4-SNAPSHOT/bungeecord-api-1.16-R0.4-SNAPSHOT.jar 403 Forbidden

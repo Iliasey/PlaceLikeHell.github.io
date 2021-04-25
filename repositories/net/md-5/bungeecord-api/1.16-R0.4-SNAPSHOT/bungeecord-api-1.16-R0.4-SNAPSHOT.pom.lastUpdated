@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 06 00:51:32 CET 2021
+https\://www.your-repo.net/.error=
+https\://www.your-repo.net/.lastUpdated=1612569092330
+@default-lombok-https\://mvnrepository.com/artifact/org.projectlombok/lombok/.lastUpdated=1612569092420
+https\://mvnrepository.com/artifact/org.projectlombok/lombok/.error=Could not transfer artifact net.md-5\:bungeecord-api\:pom\:1.16-R0.4-SNAPSHOT from/to lombok (https\://mvnrepository.com/artifact/org.projectlombok/lombok)\: Authorization failed for https\://mvnrepository.com/artifact/org.projectlombok/lombok/net/md-5/bungeecord-api/1.16-R0.4-SNAPSHOT/bungeecord-api-1.16-R0.4-SNAPSHOT.pom 403 Forbidden
