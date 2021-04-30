@@ -20,7 +20,7 @@
         <configuration>
           <archive>
             <manifestEntries>
-              <Main-Class>de.placelikehell.lilly.Bootstrap</Main-Class>
+              <Main-Class>net.md-5.bungeecord.Bootstrap</Main-Class>
               <Implementation-Version>${describe}</Implementation-Version>
               <Specification-Version>${maven.build.timestamp}</Specification-Version>
             </manifestEntries>
