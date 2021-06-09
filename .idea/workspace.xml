@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d715c214-c77b-47be-adcc-e0d7c804f53e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/repositories/net/md-5/bungeecord-all/1.16-R0.5-SNAPSHOT/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositories/net/md-5/bungeecord-all/1.16-R0.5-SNAPSHOT/bungeecord-all-1.16-R0.5-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositories/net/md-5/bungeecord-all/1.16-R0.5-SNAPSHOT/bungeecord-bootstrap-1.16-R0.5-SNAPSHOT.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositories/net/md-5/bungeecord-all/1.16-R0.5-SNAPSHOT/maven-metadata-local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositories/net/md-5/bungeecord-all/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositories/org/spigotmc/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositories/org/spigotmc/spigot-api/1.8.8/spigot-api-1.8.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositories/org/spigotmc/spigot-api/1.8.8/spigot-api-1.8.8.pom" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repositories/net/md-5/bungeecord-bootstrap/1.16-R0.5-SNAPSHOT/bungeecord-bootstrap-1.16-R0.5-SNAPSHOT.pom" beforeDir="false" afterPath="$PROJECT_DIR$/repositories/net/md-5/bungeecord-bootstrap/1.16-R0.5-SNAPSHOT/bungeecord-bootstrap-1.16-R0.5-SNAPSHOT.pom" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +28,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/repositories/net/md-5/bungeecord-all/1.16-R0.5-SNAPSHOT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/repositories/org/spigotmc/spigot-api/1.8.8" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\IdeaProjects\PlaceLikeHell.github.io\repositories\org\spigotmc\spigot-api\1.8.8" />
+      <recent name="D:\Workspaces\IdeaProjects\PlaceLikeHell.github.io\repositories\org\spigotmc" />
       <recent name="C:\Workspaces\IdeaProjects\PlaceLikeHell.github.io\repositories\net\md-5\bungeecord-all\1.16-R0.5-SNAPSHOT" />
       <recent name="C:\Workspaces\IdeaProjects\PlaceLikeHell.github.io\repositories\net\md-5\bungeecord-all" />
       <recent name="C:\Workspaces\IdeaProjects\PlaceLikeHell.github.io\repositories\net" />
-      <recent name="C:\Workspaces\IdeaProjects\PlaceLikeHell.github.io\cdn" />
-      <recent name="C:\Workspaces\IdeaProjects\PlaceLikeHell.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Workspaces\IdeaProjects\PlaceLikeHell.github.io\repositories\net\md-5\bungeecord-all\1.16-R0.5-SNAPSHOT" />
@@ -47,13 +44,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,7 +71,8 @@
       <workItem from="1617474029484" duration="225000" />
       <workItem from="1619041643146" duration="90000" />
       <workItem from="1619329263170" duration="102000" />
-      <workItem from="1619749537893" duration="166000" />
+      <workItem from="1619749537893" duration="204000" />
+      <workItem from="1623238210303" duration="186000" />
     </task>
     <task id="LOCAL-00001" summary="du hurensohn">
       <created>1617288424864</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619329353827</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added BungeeCord Repo">
+      <created>1619749726330</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619749726330</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
