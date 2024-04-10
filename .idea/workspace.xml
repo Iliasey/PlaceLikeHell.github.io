@@ -94,6 +94,8 @@
       <workItem from="1712179180882" duration="4000" />
       <workItem from="1712241986469" duration="109000" />
       <workItem from="1712326619127" duration="3000" />
+      <workItem from="1712334824711" duration="384000" />
+      <workItem from="1712371897757" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="du hurensohn">
       <created>1617288424864</created>
@@ -185,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712242004108</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Pluto Fix">
+      <option name="closed" value="true" />
+      <created>1712334841377</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712334841377</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
