@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d715c214-c77b-47be-adcc-e0d7c804f53e" name="Default Changelist" comment="Pluto Fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pluto/Pluto.exe" beforeDir="false" afterPath="$PROJECT_DIR$/pluto/Pluto.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +111,8 @@
       <workItem from="1715188334554" duration="43000" />
       <workItem from="1717036262410" duration="55000" />
       <workItem from="1717044515453" duration="24000" />
-      <workItem from="1717460340955" duration="312000" />
+      <workItem from="1717460340955" duration="339000" />
+      <workItem from="1717505579372" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="du hurensohn">
       <created>1617288424864</created>
@@ -284,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717036282338</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Pluto Fix">
+      <option name="closed" value="true" />
+      <created>1717460661019</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1717460661019</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
